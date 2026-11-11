@@ -1,5 +1,7 @@
 # Distributed URL Shortener & Analytics Platform
 
+[![CI](https://github.com/vgattikoppul2023-dot/url-shortener/actions/workflows/ci.yml/badge.svg)](https://github.com/vgattikoppul2023-dot/url-shortener/actions/workflows/ci.yml)
+
 A scalable URL-shortening service built with **Java 17 / Spring Boot 3**, using **Redis** for caching, **Kafka** for real-time click streaming, and **PostgreSQL** for durable storage. Runs locally with **Docker Compose** and ships with **Kubernetes** manifests for horizontal scaling.
 
 ## Architecture
